@@ -32,23 +32,23 @@ Some demos of android development
 
 新建项目：
 
-![image-20210606191132651](https://github.com/haplearning/android-develop/blob/main/images\image-20210606191132651.png)
+![image-20210606191132651](https://github.com/haplearning/android-develop/blob/main/images/image-20210606191132651.png)
 
 选择 `Phone and Tablet`，`Empty Activity`
 
-![image-20210606191251357](https://github.com/haplearning/android-develop/blob/main/images\image-20210606191251357.png)
+![image-20210606191251357](https://github.com/haplearning/android-develop/blob/main/images/image-20210606191251357.png)
 
 
 
 输入app 信息，点击 `Finish` 创建
 
-![image-20210606192030397](https://github.com/haplearning/android-develop/blob/main/images\image-20210606192030397.png)
+![image-20210606192030397](https://github.com/haplearning/android-develop/blob/main/images/image-20210606192030397.png)
 
 
 
 创建后项目目录如下：
 
-![image-20210606193455736](https://github.com/haplearning/android-develop/blob/main/images\image-20210606193455736.png)![image-20210606193928952](https://github.com/haplearning/android-develop/blob/main/images\image-20210606193928952.png)
+![image-20210606193455736](https://github.com/haplearning/android-develop/blob/main/images/image-20210606193455736.png)![image-20210606193928952](https://github.com/haplearning/android-develop/blob/main/images/image-20210606193928952.png)
 
 
 
@@ -56,7 +56,7 @@ Some demos of android development
 
 这里添加了两个文本框 `TextView`，两个 输入框 `PlainText`，一个按钮 `Button`，这里需要记住 id，主程序会用到
 
-![](https://github.com/haplearning/android-develop/blob/main/images\image-20210606211913297.png)
+![](https://github.com/haplearning/android-develop/blob/main/images/image-20210606211913297.png)
 
 
 
@@ -111,11 +111,11 @@ public class MainActivity extends AppCompatActivity {
 
 之后点击 `Build-Build Bundle(s)/APK(s)-Build APK(s)` 编译
 
-![image-20210606204944977](https://github.com/haplearning/android-develop/blob/main/images\image-20210606204944977.png)
+![image-20210606204944977](https://github.com/haplearning/android-develop/blob/main/images/image-20210606204944977.png)
 
 编译成功后提示：
 
-![image-20210606205314968](https://github.com/haplearning/android-develop/blob/main/images\image-20210606205314968.png)
+![image-20210606205314968](https://github.com/haplearning/android-develop/blob/main/images/image-20210606205314968.png)
 
 apk 文件保存在项目目录下的 `\app\build\outputs\apk\debug` 文件夹中
 
@@ -123,10 +123,10 @@ apk 文件保存在项目目录下的 `\app\build\outputs\apk\debug` 文件夹�
 
 输入 `purifall`、`123456`
 
-![image-20210606210900491](https://github.com/haplearning/android-develop/blob/main/images\image-20210606210900491.png)
+![image-20210606210900491](https://github.com/haplearning/android-develop/blob/main/images/image-20210606210900491.png)
 
 输入其他：
 
-![image-20210606211012255](https://github.com/haplearning/android-develop/blob/main/images\image-20210606211012255.png)
+![image-20210606211012255](https://github.com/haplearning/android-develop/blob/main/images/image-20210606211012255.png)
 
 # 案例二：简单的登录跳转 app
